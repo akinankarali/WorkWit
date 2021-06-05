@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "837326664368",
+    "project_id": "workwit-93160",
+    "storage_bucket": "workwit-93160.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837326664368:android:ae34d07b1678b838c7c175",
+        "android_client_info": {
+          "package_name": "com.example.workwit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837326664368-7eqmg6804p8amh4bgpnpv4rdjqrnv7ok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUacxkCnS_dmLlRaxiZ1lHEsJkC0gwJ3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837326664368-7eqmg6804p8amh4bgpnpv4rdjqrnv7ok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
