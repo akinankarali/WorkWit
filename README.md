@@ -1,2 +1,2 @@
 # WorkWit
-This is a repository for Android course final project. You can manage your work schedule and use pomodoro cycles with WorkWit and also you can share this work plans with your friends. Furthermore, you can work as collaborate with them.
+This is a repository for Android course final project. With this application, you can create a work, add title, description, and priority to this work. You can update work and delete it like CRUD. Also sorting with high and low future and delete all function are in the menu. You can search works with titles. There is a database for saving all works.
